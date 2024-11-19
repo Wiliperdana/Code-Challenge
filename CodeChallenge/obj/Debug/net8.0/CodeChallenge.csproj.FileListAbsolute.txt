@@ -1,0 +1,14 @@
+C:\Project\Challenge\code-challenge\CodeChallenge\bin\Debug\net8.0\CodeChallenge.exe
+C:\Project\Challenge\code-challenge\CodeChallenge\bin\Debug\net8.0\CodeChallenge.deps.json
+C:\Project\Challenge\code-challenge\CodeChallenge\bin\Debug\net8.0\CodeChallenge.runtimeconfig.json
+C:\Project\Challenge\code-challenge\CodeChallenge\bin\Debug\net8.0\CodeChallenge.dll
+C:\Project\Challenge\code-challenge\CodeChallenge\bin\Debug\net8.0\CodeChallenge.pdb
+C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\CodeChallenge.AssemblyInfoInputs.cache
+C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\CodeChallenge.AssemblyInfo.cs
+C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\CodeChallenge.dll
+C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\refint\CodeChallenge.dll
+C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\CodeChallenge.pdb
+C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\CodeChallenge.genruntimeconfig.cache
+C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\ref\CodeChallenge.dll
