@@ -12,3 +12,4 @@ C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\refint\CodeCh
 C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\CodeChallenge.pdb
 C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\CodeChallenge.genruntimeconfig.cache
 C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\ref\CodeChallenge.dll
+C:\Project\Challenge\code-challenge\CodeChallenge\obj\Debug\net8.0\CodeChallenge.sourcelink.json

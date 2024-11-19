@@ -64,7 +64,7 @@
         List<int> values = letters.Select(letter =>
             kamus.ContainsKey(letter[0]) ? kamus[letter[0]] : -1).ToList();
 
-        return values.Select(value => value % 2 == 0 ? value + 1 : value).ToList();
+        return values.Select(value => value % 2 == 0 && value != -1 ? value + 1 : value).ToList();
     }
 
     static string ConvertNumbersToLetters(List<int> numbers)
