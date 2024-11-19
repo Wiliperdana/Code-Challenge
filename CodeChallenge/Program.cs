@@ -22,7 +22,7 @@
         List<int> values = sentence.Select(charItem => kamus.ContainsKey(charItem) ? kamus[charItem] : 0).ToList();
 
         int result = values.FirstOrDefault();
-        for (int i = 2; i < values.Count; i++)
+        for (int i = 1; i < values.Count; i++)
         {
             result = i % 2 == 0 ? result - values[i] : result + values[i];
         }
